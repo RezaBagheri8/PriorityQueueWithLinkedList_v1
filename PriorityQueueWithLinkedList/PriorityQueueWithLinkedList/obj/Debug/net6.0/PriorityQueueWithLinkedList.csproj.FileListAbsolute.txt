@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\bin\Debug\net6.0\PriorityQueueWithLinkedList.exe
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\bin\Debug\net6.0\PriorityQueueWithLinkedList.deps.json
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\bin\Debug\net6.0\PriorityQueueWithLinkedList.runtimeconfig.json
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\bin\Debug\net6.0\PriorityQueueWithLinkedList.dll
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\bin\Debug\net6.0\ref\PriorityQueueWithLinkedList.dll
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\bin\Debug\net6.0\PriorityQueueWithLinkedList.pdb
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\obj\Debug\net6.0\PriorityQueueWithLinkedList.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\obj\Debug\net6.0\PriorityQueueWithLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\obj\Debug\net6.0\PriorityQueueWithLinkedList.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\obj\Debug\net6.0\PriorityQueueWithLinkedList.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\obj\Debug\net6.0\PriorityQueueWithLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\obj\Debug\net6.0\PriorityQueueWithLinkedList.dll
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\obj\Debug\net6.0\ref\PriorityQueueWithLinkedList.dll
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\obj\Debug\net6.0\PriorityQueueWithLinkedList.pdb
+C:\Users\Mahdi\Desktop\PriorityQueueWithLinkedList\PriorityQueueWithLinkedList\obj\Debug\net6.0\PriorityQueueWithLinkedList.genruntimeconfig.cache
